@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**shika123/shika123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.info {
+    position: absoulute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: rgba(255, 255, 255, 0.7);
+    front-size: 16px;
+    text-aign: center;
+    pointer-events: none;
+    text-shadow: 0 0 5px rgba(255,255,255,0.5);
+ }
